@@ -26,9 +26,16 @@ This Python application is designed for fingerprint analysis and matching agains
 - scikit-learn (if using machine learning)
 - [Database of Fingerprint Images] (provide details or a link if available)
 
-## Installation
-1. Clone this repository:
+## Getting Started
+To get started with Fingerprint Glitch, follow these steps:
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/code-glitchers/fingerprint-glitch.git
+
+
+
+   
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![Python](https://img.shields.io/badge/Python-3.x-brightgreen.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange.svg)](https://opencv.org/)

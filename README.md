@@ -34,6 +34,39 @@ To get started with Fingerprint Glitch, follow these steps:
    git clone https://github.com/code-glitchers/fingerprint-glitch.git
 
 
+### Usage
+
+To use Fingerprint Glitch, you will need to:
+
+1. Prepare a database of fingerprint images and labels.
+2. Run the preprocessing and feature extraction scripts.
+3. Train the matching model (if using machine learning).
+4. Use the analyzer to match new fingerprint images.
+5. Evaluate the system's performance.
+
+For more detailed instructions, please see the [documentation](docs/index.md).
+
+### Contributing
+
+Contributions to Fingerprint Glitch are welcome! To contribute to this project, follow these steps:
+
+1. Fork the repository on GitHub.
+2. Clone your forked repository to your local machine.
+3. Create a new branch for your changes.
+4. Make your changes and commit them.
+5. Push your changes to your fork.
+6. Create a pull request on GitHub.
+
+### License
+
+Fingerprint Glitch is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+If you have any questions or feedback, please contact the project maintainers:
+
+* Your Name
+* Email: your@email.com
 
    
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)

@@ -5,10 +5,7 @@ This Python application is designed for fingerprint analysis and matching agains
 [![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue.svg)](https://www.python.org/dev/peps/pep-0008/)
 
  
-<a href="https://code-glitchers.github.io/doc.html">
-    <img src="https://img.shields.io/badge/Documentation-GitHub%20Pages-blue.svg"
-         alt="Documentation">
-</a>
+[![Documentation](https://img.shields.io/badge/Documentation-GitHub%20Pages-blue.svg)](https://code-glitchers.github.io/doc.html)
 [![Release Date](https://img.shields.io/badge/Release-September%202023-blue.svg)](CHANGELOG.md)
 
 [![GitHub Stars](https://img.shields.io/github/stars/code-glitchers/fingerprint-glitch.svg?style=social)](https://github.com/code-glitchers/fingerprint-glitch/stargazers)

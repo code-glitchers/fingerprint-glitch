@@ -1,6 +1,4 @@
 # Fingerprint Glitch
-
-## Introduction
 This Python application is designed for fingerprint analysis and matching against a database. It utilizes image processing techniques and machine learning to identify and match fingerprints.
 [![Python Versions](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue.svg)](https://www.python.org/)
 
@@ -32,9 +30,33 @@ To get started with Fingerprint Glitch, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/code-glitchers/fingerprint-glitch.git
+cd fingerprint-matching
 
 
-### Usage
+3. Place your target fingerprint image (e.g., `img0026.jpg`) in the main.py file.
+
+4. Organize your template fingerprint images in a folder (e.g., `fingerprint/`) within the project directory.
+
+5. Run the code:
+ `python main.py`
+
+
+6. The code will iterate through the template fingerprint images in the specified folder, compare each template with the target image, and print the match score for each template.
+
+## Customization
+
+You can customize the code further by modifying the following functions in the `main.py` file:
+
+* `preprocess_fingerprint()`: This function applies preprocessing steps to the fingerprint images. You can modify this function to add your own preprocessing steps.
+* `match_fingerprint()`: This function compares two fingerprint images and returns the match score. You can modify this function to use a different matching algorithm.
+
+Feel free to explore and adapt the code to suit your specific fingerprint matching requirements.
+
+Happy fingerprint matching!
+
+
+
+## Usage
 
 To use Fingerprint Glitch, you will need to:
 
@@ -65,8 +87,8 @@ Fingerprint Glitch is licensed under the MIT License. See the [LICENSE](LICENSE)
 
 If you have any questions or feedback, please contact the project maintainers:
 
-* Your Name
-* Email: your@email.com
+* 0x_hayden
+* Email: cubedimension@protonmail.com
 
    
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)

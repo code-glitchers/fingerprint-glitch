@@ -50,8 +50,7 @@ To get started with Fingerprint Glitch, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/code-glitchers/fingerprint-glitch.git`
-```bash
-cd fingerprint-glitch`
+`cd fingerprint-glitch`
 
 
 3. Place your target fingerprint image (e.g., `img0026.jpg`) in the main.py file.

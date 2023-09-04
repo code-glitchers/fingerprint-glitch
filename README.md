@@ -97,17 +97,36 @@ Contributions to Fingerprint Glitch are welcome! To contribute to this project, 
 4. Make your changes and commit them.
 5. Push your changes to your fork.
 6. Create a pull request on GitHub.
-
-### License
-
-Fingerprint Glitch is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-### Contact
+## Contact
 
 If you have any questions or feedback, please contact the project maintainers:
 
 * 0x_hayden
 * Email: cubedimension@protonmail.com
+## Credits
+
+This project is maintained by:
+
+[<img src="https://avatars.githubusercontent.com/u/135024483?s=48&v=4" width="64" height="64" alt="Contributor Name">](https://github.com/code-glitchers)
+
+### Contributors and Developers
+
+[<img src="https://avatars.githubusercontent.com/u/67865621?s=64&v=4" width="64" height="64" alt="Contributor Name">](https://github.com/mindglitchers)
+[<img src="https://avatars.githubusercontent.com/u/116929670?s=64&v=4" width="64" height="64" alt="Contributor Name">](https://github.com/AldrinCode)
+
+
+## Support
+
+If you find this project helpful, consider buying us a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ciph3r#pageMessageModal)
+
+
+## License
+
+Fingerprint Glitch is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contact
+
 
    
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)

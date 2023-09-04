@@ -2,13 +2,8 @@
 This Python application is designed for fingerprint analysis and matching against a database. It utilizes image processing techniques and machine learning to identify and match fingerprints.
 [![Python Versions](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue.svg)](https://www.python.org/)
 
-[![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue.svg)](https://www.python.org/dev/peps/pep-0008/)
-
- 
-[![Documentation](https://img.shields.io/badge/Documentation-GitHub%20Pages-blue.svg)](https://code-glitchers.github.io/doc.html)
-[![Release Date](https://img.shields.io/badge/Release-September%202023-blue.svg)](CHANGELOG.md)
-
-[![GitHub Stars](https://img.shields.io/github/stars/code-glitchers/fingerprint-glitch.svg?style=social)](https://github.com/code-glitchers/fingerprint-glitch/stargazers)
+[![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue.svg)](https://www.python.org/dev/peps/pep-0008/)[![Documentation](https://img.shields.io/badge/Documentation-GitHub%20Pages-blue.svg)](https://code-glitchers.github.io/doc.html)
+[![Release Date](https://img.shields.io/badge/Release-September%202023-blue.svg)](CHANGELOG.md)[![GitHub Stars](https://img.shields.io/github/stars/code-glitchers/fingerprint-glitch.svg?style=social)](https://github.com/code-glitchers/fingerprint-glitch/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/code-glitchers/fingerprint-glitch.svg?style=social)](https://github.com/code-glitchers/fingerprint-glitch/network/members)
 <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=mindglitchers&label=Profile%20views&color=0e75b6&style=flat" alt="mindglitchers" /> </p></center>
 <br>

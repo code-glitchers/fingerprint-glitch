@@ -3,7 +3,7 @@ This Python application is designed for fingerprint analysis and matching agains
 [![Python Versions](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue.svg)](https://www.python.org/)
 
 [![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue.svg)](https://www.python.org/dev/peps/pep-0008/)
-section of your HTML document -->
+
 <a href="https://code-glitchers.github.io/doc.html">
     <img src="https://img.shields.io/badge/Documentation-GitHub%20Pages-blue.svg"
          alt="Documentation">

@@ -23,6 +23,26 @@ This Python application is designed for fingerprint analysis and matching agains
 - NumPy
 - scikit-learn (if using machine learning)
 - [Database of Fingerprint Images] (provide details or a link if available)
+  
+## File structure
+fingerprint-glitch/<br><br>
+│<br>
+├── fingerprint/<br>
+│   ├── template1.jpg<br>
+│   ├── template2.jpg<br>
+│   ├── ... (more template   fingerprint images)<br>
+│<br>
+├── img0026.jpg (your target fingerprint image)<br>
+│<br>
+├── main.py<br>
+│<br>
+├── README.md<br>
+
+ `fingerprint-glitch/`is the root directory of your project. <br>
+ `fingerprint/ ` is a subdirectory where you store your template fingerprint images. You can add as many template images as needed. <br>
+ `img0026.jpg ` is the target fingerprint image you want to compare with the templates. <br>
+ `main.py ` is your Python script containing the fingerprint matching code.
+  `README.md ` is the Markdown file where you provide instructions and documentation for users.
 
 ## Getting Started
 To get started with Fingerprint Glitch, follow these steps:

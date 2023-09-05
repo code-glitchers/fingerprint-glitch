@@ -6,7 +6,8 @@ This Python application is designed for fingerprint analysis and matching agains
 [![GitHub Forks](https://img.shields.io/github/forks/code-glitchers/fingerprint-glitch.svg?style=social)](https://github.com/code-glitchers/fingerprint-glitch/network/members)
 <center><p align="left"> <img src="https://komarev.com/ghpvc/?username=mindglitchers&label=Profile%20views&color=0e75b6&style=flat" alt="mindglitchers" /> </p></center>
 <br>
-
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=code-glitchers&label=Profile%20views&color=0e75b6&style=flat" alt="code-glitchers" /> </p></center>
+<br>
 ## Features
 - Fingerprint image preprocessing.
 - Feature extraction from fingerprint images.
